@@ -29,7 +29,8 @@
 4. s로부터 현재보다 짧은 거리로 점 vmin을 통해 우회 가능한 각 점w에 대해서 D[w]를 갱신한다.}
 5.  return D
 
-![image-20210407204414878](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20210407204414878.png)
+![KakaoTalk_20210407_203751721](https://user-images.githubusercontent.com/80522538/113864352-c39bba80-97e5-11eb-9740-5fbf13790817.jpg)
+
 
 ### 시간 복잡도
 
